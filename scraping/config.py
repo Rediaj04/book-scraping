@@ -1,2 +1,2 @@
-BASE_URL = "https://www.goodreads.com/"
-WAIT_TIME = 10  # Tiempo de espera en segundos para Selenium
+BASE_URL = "https://www.goodreads.com/"  # URL base de Goodreads
+WAIT_TIME = 10  # Tiempo máximo de espera para los elementos
